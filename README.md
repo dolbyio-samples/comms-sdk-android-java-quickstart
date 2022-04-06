@@ -7,7 +7,8 @@ We'll create and use a Developer Token while in development, and recommend you u
 
 1. Download or clone the app and open with Android Studio.
 2. Open Constants.java and if missing, replace the API_TOKEN with your developer token. You'll need to create an Auth2 token, this token can be created by going to the [Dolby.io Application Summary page](https://dashboard.dolby.io/) selecting an app, clicking on the API keys link, then copying your application's API Consumer Key and Consumer secret somewhere convenient. Next go to our [REST API documentation](https://docs.dolby.io/communications-apis/reference/get-client-access-token) and follow the instructions to create the client access token using the code example tool.
-   ![Android Studio Build Setting](./wiki-access-token.png)
+   
+![Android Studio Build Setting](./wiki-access-token.png)
 
 ``` Note, for the API tool, you should provide the Consumer Key for the username and Consumer Secret for the password in the tool.```
 
