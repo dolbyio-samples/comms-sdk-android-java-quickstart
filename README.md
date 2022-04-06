@@ -1,4 +1,4 @@
-# Dolby.io Communications APIs Android SDK Getting Started app
+# Dolby.io Communications APIs Android SDK Java Quick Start App
 
 This is the sample app from the Android app used in the [Getting Started](https://docs.dolby.io/communications/docs/getting-started-with-android) article. 
 
